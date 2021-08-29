@@ -1,0 +1,7 @@
+{
+  "name": "Recursive Definition",
+  "desc": "Sample file contains several objects. One of the objects is defined recursively. This simple test ensures that recursive definitions may be resolved on the compilation stage.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

@@ -1,0 +1,11 @@
++package test
+
+[] > obj1
+  0 > att1
+  [] > att2
+    ^.att1 > @
+  [] > att3
+    ^.att2 > att31
+    [] > att32
+      ^.^.att1 > @
+    att32.^.^.att1 > att33

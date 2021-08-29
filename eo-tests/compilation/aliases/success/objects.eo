@@ -1,0 +1,15 @@
++package objects
+
+"String object" > stringObject
+345 > intObject
+0 > intZero
+
+3.14 > pi
+0.0 > floatZero
+
+
+true > boolTrue
+false > boolFalse
+
+'C' > charObject
+

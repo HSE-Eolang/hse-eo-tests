@@ -1,0 +1,5 @@
++package test
+
+# Simple object
+[] > obj3
+  [] > att1 # Attribute of object

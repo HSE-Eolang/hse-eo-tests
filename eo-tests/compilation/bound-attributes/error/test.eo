@@ -1,0 +1,4 @@
++package test
+
+[a] > obj1
+	123 > att1

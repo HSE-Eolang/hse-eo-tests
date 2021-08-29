@@ -1,0 +1,19 @@
++package test
+
+[] > obj1
+  [] > att1
+  1 > @
+
+[] > obj2
+  obj1 > @
+
+[] > obj3
+  obj2.att1 > att2
+
+# EOLANG and 𝜑-calculus
+[center radius] > cirle
+  center > @
+  [p] > is-inside
+    leq. > @
+      ^.@.distance p
+      ^.radius

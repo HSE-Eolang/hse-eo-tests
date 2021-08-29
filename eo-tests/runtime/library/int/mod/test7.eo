@@ -1,0 +1,10 @@
++package test
+
+[] > app
+  mod. > @
+    mod.
+      122
+      10
+    mod.
+      35
+      4

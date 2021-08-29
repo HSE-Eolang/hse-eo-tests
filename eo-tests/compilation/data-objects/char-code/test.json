@@ -1,0 +1,7 @@
+{
+  "name": "Char-code Char Data Type Object Syntax",
+  "desc": "This test ensures that the compiler is able to transpile char-code char data type objects syntax ('\\123').",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

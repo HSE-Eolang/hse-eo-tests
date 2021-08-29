@@ -1,0 +1,7 @@
+{
+  "name": "Atoms Syntax",
+  "desc": "This test ensures that the compiler is able to transpile the atoms syntax.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

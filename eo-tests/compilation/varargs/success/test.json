@@ -1,0 +1,7 @@
+{
+  "name": "Correct Vararg Attributes Sample",
+  "desc": "Sample file contains three objects with 0, 1, 2 free attributes + a vararg attribute after them. The sample is syntactically correct.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

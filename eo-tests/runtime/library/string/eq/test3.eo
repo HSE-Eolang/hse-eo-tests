@@ -1,0 +1,6 @@
++package test
+
+[] > app
+  eq. > @
+    "Test string"
+    "Test string "

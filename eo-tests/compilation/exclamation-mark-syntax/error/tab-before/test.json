@@ -1,0 +1,7 @@
+{
+  "name": "Tab before Exclamation Mark Syntax",
+  "desc": "This test checks that the program where a tab preceeds the exclamation mark is syntactically wrong.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

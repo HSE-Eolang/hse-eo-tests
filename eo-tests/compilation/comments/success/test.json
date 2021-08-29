@@ -1,0 +1,7 @@
+{
+  "name": "Correct Comments Sample",
+  "desc": "Sample file contains three objects of different nesting level (global object, attribute object, attribute of another attribute). Each object is commented correctly. The sample is syntactically correct.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

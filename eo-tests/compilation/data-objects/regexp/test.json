@@ -1,0 +1,7 @@
+{
+  "name": "Regex Data Type Object Syntax",
+  "desc": "This test ensures that the compiler is able to transpile the regex syntax.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

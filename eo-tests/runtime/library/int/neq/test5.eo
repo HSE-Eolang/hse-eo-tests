@@ -1,0 +1,6 @@
++package test
+
+[] > app
+  neq. > @
+    1234
+    0.7

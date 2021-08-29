@@ -1,0 +1,12 @@
++package test
+
+* > arr1
+  * 1 2 3 4
+  * 4 5 6
+  1
+  "Hello"
+  3
+  0.7
+  * 6 7 8
+[] > app
+  arr1.length > @

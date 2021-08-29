@@ -1,0 +1,15 @@
++package test
+
+[a b] > obj1
+  [a] > att1
+    [] > att11
+
+[] > obj2
+  [a b] > att1
+    [] > att11
+
+[] > obj3
+  obj1.att1 obj2.att1.att11 > att1
+  (obj1.att1 obj2).att1.att11 > att2
+  obj1.att1 (obj2.att1.att11) > att3
+  (obj1.att1 (obj2.att1)).att11 > att4

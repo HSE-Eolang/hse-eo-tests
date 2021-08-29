@@ -1,0 +1,6 @@
++package test
+
+[] > app
+  pow. > @
+    1
+    7

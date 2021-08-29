@@ -1,0 +1,7 @@
+{
+  "name": "Object Mutation Test",
+  "desc": "This test tries to mutate attributes of objects. This test must fail either on the compilation step or during runtime.",
+  "active": true,
+  "type": "runtime",
+  "result": "_fail"
+}

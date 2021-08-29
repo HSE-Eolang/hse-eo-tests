@@ -1,0 +1,7 @@
+{
+  "name": "Bytes Data Type Object Syntax",
+  "desc": "This test ensures that the compiler is able to transpile bytes data type objects syntax.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

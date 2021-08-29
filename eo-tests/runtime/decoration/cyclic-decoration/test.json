@@ -1,0 +1,7 @@
+{
+  "name": "Cyclic Decoration Hierarchy",
+  "desc": "This test checks how the language runtime environment would resolve the case when the decoration tree is cyclic.",
+  "active": true,
+  "type": "runtime",
+  "result": "_fail"
+}

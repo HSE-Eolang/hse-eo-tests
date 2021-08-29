@@ -1,0 +1,7 @@
++package test
+
+
+[args...] > app
+  get. > @
+    args
+    2

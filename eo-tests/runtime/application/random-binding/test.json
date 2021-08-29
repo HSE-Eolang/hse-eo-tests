@@ -1,0 +1,7 @@
+{
+  "name": "Random Binding (\":\" syntax) with Full Application",
+  "desc": "This test ensures that full application with the special \":\" binding syntax is supported.",
+  "active": true,
+  "type": "runtime",
+  "result": "1"
+}

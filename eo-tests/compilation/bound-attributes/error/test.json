@@ -1,0 +1,7 @@
+{
+  "name": "Tab Character Before Bound Attribute",
+  "desc": "Sample file contains an object with the only bound attribute att1. The attribute is preceded by a tab character, which is syntactically wrong. Double-space must be used for indentation.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

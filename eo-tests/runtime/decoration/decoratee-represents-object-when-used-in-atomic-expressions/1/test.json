@@ -1,0 +1,7 @@
+{
+  "name": "Decoratee Represents Data Behind Objects when They are Arguments of Atomic Operations I",
+  "desc": "This test checks that atomic operations may consider objects being operated on as data they decorate.",
+  "active": true,
+  "type": "runtime",
+  "result": "579"
+}

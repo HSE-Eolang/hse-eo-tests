@@ -1,0 +1,7 @@
+{
+  "name": "Tab Character Before the First Free Attribute",
+  "desc": "Sample file contains an object with the only free attribute. The free attribute is preceded by a tab character, which is syntactically wrong.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

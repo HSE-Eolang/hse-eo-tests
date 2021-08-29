@@ -1,0 +1,7 @@
+{
+  "name": "Decoratee in Dot-Notation",
+  "desc": "This test ensures that the compiler is able to transpile decoratee reference inside dot-notation syntax.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

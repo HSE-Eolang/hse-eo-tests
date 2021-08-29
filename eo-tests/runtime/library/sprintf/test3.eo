@@ -1,0 +1,7 @@
++package test
++alias sprintf org.eolang.txt.sprintf
+
+[] > app
+  sprintf > @
+    "String object - %s"
+    "Hello"

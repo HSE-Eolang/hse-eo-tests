@@ -1,0 +1,10 @@
++package test
+
+[] > app
+  div. > @
+    div.
+      128
+      2
+    div.
+      32
+      4

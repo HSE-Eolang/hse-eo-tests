@@ -1,0 +1,7 @@
+{
+  "name": "The Middle Free Attribute is a Vararg",
+  "desc": "Sample file contains an object with three free attributes. The second (middle) free attribute is a vararg, which is wrong. The vararg must be the last argument.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

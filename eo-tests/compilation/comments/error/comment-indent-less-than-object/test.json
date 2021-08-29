@@ -1,0 +1,7 @@
+{
+  "name": "Comment Indent is at the Previous Level Comparing to the Object Indent",
+  "desc": "Sample file contains an object with a bound attribute that has a comment before it. The comment is indented at n-1 level comparing to the indentation level of the attribute object being commented, which is syntactically wrong. The indentation level of the comment and the object being commented must be the same.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

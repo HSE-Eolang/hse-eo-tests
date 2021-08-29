@@ -1,0 +1,6 @@
++package test
+
+
+[args...] > app
+  empty. > @
+    args

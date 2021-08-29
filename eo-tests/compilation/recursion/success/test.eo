@@ -1,0 +1,10 @@
++package test
+
+[] > obj1
+  obj1 > @
+
+[] > obj2
+  obj3 > @
+
+[] > obj3
+  obj2 > @

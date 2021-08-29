@@ -1,0 +1,7 @@
+{
+  "name": "Basic Char Data Type Object Syntax",
+  "desc": "This test ensures that the compiler is able to transpile basic char data type objects syntax ('a').",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Correct Bound Attributes Sample",
+  "desc": "Sample file contains three global-scope objects. Each object has one (or two) bound attributes. Some attributes are application-based, and obj3.att4 is an abstraction-based bound attribute. The obj3.att4 attribute has the att5 attribute. The sample is syntactically and semantically correct.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

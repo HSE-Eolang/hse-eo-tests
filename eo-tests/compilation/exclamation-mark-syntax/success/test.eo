@@ -1,0 +1,12 @@
++package test
+
+[] > obj1!
+  [] > att1!
+
+obj1 > obj2
+
+[] > obj3
+  obj1.att1 > @
+
+[] > obj4
+  obj1 > att4

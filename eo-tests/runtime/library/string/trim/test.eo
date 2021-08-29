@@ -1,0 +1,5 @@
++package test
+
+[args...] > app
+  trim. > @
+    args.get 0

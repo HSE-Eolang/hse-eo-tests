@@ -1,0 +1,7 @@
+{
+  "name": "Access of a Free Attribute of the Parent Object",
+  "desc": "This test ensures parent's free attributes may be accesses through dot-notation with the special \"^\" syntax.",
+  "active": true,
+  "type": "runtime",
+  "result": "5"
+}

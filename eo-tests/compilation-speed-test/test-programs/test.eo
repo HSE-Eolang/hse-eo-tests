@@ -1,0 +1,11 @@
+[] > obj1
+  [] > att1
+  1 > @
+
+[] > obj2
+  obj1 > @
+
+[] > obj3
+  obj2.att1 > att2
+  obj2.@.att1 > att3
+

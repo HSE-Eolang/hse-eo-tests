@@ -1,0 +1,11 @@
++package test
+
++alias stringObject objects.stringObject
++alias objects.intObject
++alias floatObject objects.floatZero
+
+stringObject > obj1
+
+intObject > obj2
+
+floatObject > obj3

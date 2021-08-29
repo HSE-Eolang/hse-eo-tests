@@ -1,0 +1,7 @@
+{
+  "name": "Same Attribute Name in the Decoration Hierarchy I",
+  "desc": "This test checks how the language runtime environment would resolve the case when the decoration hierarchy has two attributes of the same name.",
+  "active": true,
+  "type": "runtime",
+  "result": "456"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Dot-Notation (Plain/Horizontal and Reverse/Vertical)",
+  "desc": "This test ensures that the compiler can handle plain dot-notation and reverse dot-notation syntaxes.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

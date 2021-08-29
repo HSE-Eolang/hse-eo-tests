@@ -1,0 +1,7 @@
+{
+  "name": "Simple Non-zero Int Data Type Object Syntax",
+  "desc": "This test ensures that the compiler is able to transpile simple non-zero int (123) syntax.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

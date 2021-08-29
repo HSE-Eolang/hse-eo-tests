@@ -1,0 +1,6 @@
++package test
+
+[] > app
+  eq. > @
+    "0"
+    0

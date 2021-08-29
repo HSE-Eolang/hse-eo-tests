@@ -1,0 +1,6 @@
+{
+  "name": "Compilation Speed Test",
+  "desc": "This test measures the time of compilation of several sample programs.",
+  "active": true,
+  "type": "compilation-speed-test"
+}

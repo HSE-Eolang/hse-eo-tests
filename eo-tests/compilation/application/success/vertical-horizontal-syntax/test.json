@@ -1,0 +1,7 @@
+{
+  "name": "Vertical and Horizontal Application Syntax",
+  "desc": "This test ensures that the compiler is able to transpile both vertical (plain) and horizontal (reverse) application syntaxes.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

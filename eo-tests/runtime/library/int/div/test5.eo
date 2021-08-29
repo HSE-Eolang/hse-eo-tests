@@ -1,0 +1,6 @@
++package test
+
+[] > app
+  div. > @
+    1234
+    0.7

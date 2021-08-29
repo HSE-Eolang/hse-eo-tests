@@ -1,0 +1,6 @@
++package test
+
+45 > obj1
+
+[args...] > app
+  obj1 > @

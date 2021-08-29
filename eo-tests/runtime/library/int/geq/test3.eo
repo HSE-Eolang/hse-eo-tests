@@ -1,0 +1,6 @@
++package test
+
+[] > app
+  geq. > @
+    4321
+    1234

@@ -1,0 +1,6 @@
++package test
+
+[args...] > app
+  eq. > @
+    args.get 0
+    args.get 1

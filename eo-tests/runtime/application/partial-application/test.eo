@@ -1,0 +1,13 @@
++package test
+
+[args...] > app
+  [a b c] > att1
+    add. > @
+      add.
+        a
+        b
+      c
+  att1 2:b > att2
+  att2 1:a > att3
+  att3 4:c > att4
+  att4 > @

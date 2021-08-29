@@ -1,0 +1,9 @@
++package test
+
+[] > obj1
+
+[a] > obj2
+
+[a b] > obj3
+
+[a b c] > obj4

@@ -1,0 +1,7 @@
+{
+  "name": "Vararg with Two Dots",
+  "desc": "Sample file contains an object with the only free attribute, which is a vararg. The attribute is succeeded by two dots, which is syntactically wrong. The vararg must be succeeded by three dots.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

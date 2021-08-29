@@ -1,0 +1,7 @@
+{
+  "name": "Re-Application with Mutation",
+  "desc": "This test ensures that reapplication of objects causing their mutation is not allowed.",
+  "active": true,
+  "type": "runtime",
+  "result": "_fail"
+}

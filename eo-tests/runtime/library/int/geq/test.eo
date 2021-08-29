@@ -1,0 +1,6 @@
++package test
+
+[] > app
+  geq. > @
+    0
+    0

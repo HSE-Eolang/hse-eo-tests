@@ -1,0 +1,7 @@
+{
+  "name": "Using Attributes of Decoratee I",
+  "desc": "This test checks that decoratee supersets the attributes set, and added attributes may be references as if they are attributes of self.",
+  "active": true,
+  "type": "runtime",
+  "result": "456"
+}

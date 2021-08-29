@@ -1,0 +1,7 @@
+{
+  "name": "Decoratee is a Data-Type Object (int) I",
+  "desc": "This test checks that decoratee objects may be atoms (in this example, integers).",
+  "active": true,
+  "type": "runtime",
+  "result": "4"
+}

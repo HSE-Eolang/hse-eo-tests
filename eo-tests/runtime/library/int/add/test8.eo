@@ -1,0 +1,6 @@
++package test
+
+[] > app
+  add. > @
+    1234
+    []

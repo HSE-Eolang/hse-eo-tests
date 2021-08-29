@@ -1,0 +1,7 @@
+{
+  "name": "Simple Non-zero Float Data Type Object Syntax",
+  "desc": "This test ensures that the compiler is able to transpile simple float data type objects syntax (123.999).",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

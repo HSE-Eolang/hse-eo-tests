@@ -1,0 +1,7 @@
+{
+  "name": "Non-zero Indentation Level of the License Text",
+  "desc": "Sample file contains license text only. The license text has indentation level of 1. However, the 0th level is expected.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

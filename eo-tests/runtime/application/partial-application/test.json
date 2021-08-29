@@ -1,0 +1,7 @@
+{
+  "name": "Partial Application with the \":\" Syntax to Bind Free Attributes",
+  "desc": "This test ensures that partial application with the special \":\" binding syntax is supported.",
+  "active": true,
+  "type": "runtime",
+  "result": "7"
+}

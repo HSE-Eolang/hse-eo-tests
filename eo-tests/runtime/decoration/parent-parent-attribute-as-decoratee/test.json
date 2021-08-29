@@ -1,0 +1,7 @@
+{
+  "name": "Parent's Parent's Attribute as Decoratee",
+  "desc": "This test checks how the language runtime environment would resolve the case when the decoratee of an object is its parent's parent's attribute.",
+  "active": true,
+  "type": "runtime",
+  "result": "4567"
+}

@@ -1,0 +1,10 @@
++package test
+
+[] > app
+  sub. > @
+    sub.
+      90
+      25
+    sub.
+      37
+      4

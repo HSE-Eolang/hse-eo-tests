@@ -1,0 +1,7 @@
++package test
+
+[] > app
+  not. > @
+    greater.
+      4321
+      1234

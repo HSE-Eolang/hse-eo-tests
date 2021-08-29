@@ -1,0 +1,7 @@
+{
+  "name": "Inline Comments are not Allowed",
+  "desc": "Sample file contains an object with a bound attribute that has an inline comment after it (i.e., on the same line after the object being commented). The comment is indented at n-1 level comparing to the indentation level of the attribute object being commented, which is syntactically wrong. Inline comments are not allowed. Comments must be before object being commented (i.e., at the top of their definition).",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

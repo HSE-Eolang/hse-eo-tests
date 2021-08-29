@@ -1,0 +1,7 @@
+{
+  "name": "Parent Reference in Dot-Notation to Access an Existing Attribute",
+  "desc": "This test ensures parent's attributes may be accesses through dot-notation with the special \"^\" syntax.",
+  "active": true,
+  "type": "runtime",
+  "result": "567"
+}

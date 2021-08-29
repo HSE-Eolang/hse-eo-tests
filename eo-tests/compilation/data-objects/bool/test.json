@@ -1,0 +1,7 @@
+{
+  "name": "Bool Data Type Object Syntax",
+  "desc": "This test ensures that the compiler is able to transpile boolean data type objects syntax (true|false).",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

@@ -1,0 +1,3 @@
++package test
+
+"String object" > stringObject

@@ -1,0 +1,7 @@
+{
+  "name": "Two Space Characters Between Free Attributes",
+  "desc": "Sample file contains an object with two free attributes. There are two space characters between them, which is syntactically wrong. Only one space character is expected.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

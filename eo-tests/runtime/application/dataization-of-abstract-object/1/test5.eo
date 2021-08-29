@@ -1,0 +1,6 @@
++package test
+
+[args...] > app
+  [a] > att1
+    1234 > @
+  att1 > @

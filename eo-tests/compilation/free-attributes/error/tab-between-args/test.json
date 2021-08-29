@@ -1,0 +1,7 @@
+{
+  "name": "Tab Character Between Free Attributes",
+  "desc": "Sample file contains an object with two free attributes. There is a tab character between them, which is syntactically wrong. Space character is allowed as delimiter.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

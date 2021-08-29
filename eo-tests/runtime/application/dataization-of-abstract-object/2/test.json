@@ -1,0 +1,7 @@
+{
+  "name": "Dataization of an Abstract Object (II)",
+  "desc": "This test checks that an abstract object may be dataized if no free attributes are used in the decoration hierarchy.",
+  "active": true,
+  "type": "runtime",
+  "result": "1234"
+}

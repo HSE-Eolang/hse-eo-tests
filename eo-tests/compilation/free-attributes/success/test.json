@@ -1,0 +1,7 @@
+{
+  "name": "Correct Free Attributes Sample",
+  "desc": "Sample file contains four objects with 0, 1, 2, 3 free attributes. The sample is syntactically correct.",
+  "active": true,
+  "type": "compilation",
+  "result": "ok"
+}

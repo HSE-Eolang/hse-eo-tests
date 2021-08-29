@@ -1,0 +1,6 @@
++package test
+
+[] > app
+  eq. > @
+    1234
+    1234

@@ -1,0 +1,7 @@
+{
+  "name": "Space before Exclamation Mark Syntax",
+  "desc": "This test checks that the program where a space preceeds the exclamation mark is syntactically wrong.",
+  "active": true,
+  "type": "compilation",
+  "result": "fail"
+}

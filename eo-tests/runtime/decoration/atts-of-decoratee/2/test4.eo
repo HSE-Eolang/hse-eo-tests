@@ -1,0 +1,16 @@
++package test
+
+[] > obj1
+  567 > att1
+
+[] > obj2
+  obj1 > @
+[] > obj3
+  obj2 > @
+[] > obj4
+  obj3 > @
+[] > obj5
+  obj4 > @
+
+[args...] > app
+  obj5.att1 > @
