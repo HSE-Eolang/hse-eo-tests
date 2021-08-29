@@ -26,10 +26,10 @@ def run_runtime_test(test, environment):
       raise AssertionError("This is a runtime test. Although the compilation of the test's sources failed!")
 
   completed_runtime_process = subprocess.run([dest_dir + "/run.sh"], text=True, capture_output=True, encoding="utf-8")
-  print(completed_runtime_process.stdout)
   if completed_runtime_process.returncode == 0 and expected_result == "_fail":
     raise AssertionError("This runtime test must have failed, although it run with no exceptions.")
   elif completed_runtime_process.returncode != 0 and expected_result != "_fail":
+    print(completed_runtime_process.stderr)
     raise AssertionError("This runtime test must have run with no exceptions, however it failed.")
   elif completed_runtime_process.returncode == 0 and expected_result == "_ok":
     print("OK!")
