@@ -46,6 +46,12 @@ jobs:
       matrix: ${{ fromJson(needs.retrieve-tests-matrix.outputs.tests-matrix) }}
 
     steps:
+    - name: Test Name is ${{ matrix.name }}
+    - name: Description
+      run: echo ${{ matrix.desc }}
+    - name: Link to Test
+      run: echo https://github.com/HSE-Eolang/hse-eo-tests/${{ matrix.directory }}
+
     - uses: actions/checkout@v2
 
     - name: Set up JDK 11
@@ -61,6 +67,6 @@ jobs:
         key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
         restore-keys: |
                     ${{ runner.os }}-maven-
-
+                 
     - name: Run the "${{ matrix.name }}" test
       run: python3 python/run-test.py ${{ matrix.directory }} hse
