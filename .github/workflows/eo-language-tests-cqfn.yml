@@ -47,11 +47,11 @@ jobs:
 
     steps:
     - name: Test Name is ${{ matrix.name }}
-      run: echo ${{ matrix.name }}
+      run: echo "${{ matrix.name }}"
     - name: Description
-      run: echo ${{ matrix.desc }}
+      run: echo "${{ matrix.desc }}"
     - name: Link to Test
-      run: echo https://github.com/HSE-Eolang/hse-eo-tests/${{ matrix.directory }}
+      run: echo "https://github.com/HSE-Eolang/hse-eo-tests/${{ matrix.directory }}"
 
     - uses: actions/checkout@v2
 
