@@ -17,7 +17,7 @@ jobs:
     steps:
     - name: Collect tests info and form the matrix to run tests
       id: set-tests-matrix
-      run: python3 python/retrieve-tests-matrix.py
+      run: python3 ./python/retrieve-tests-matrix.py
 
   check-matrix:
     name: Check the tests matrix for validity
