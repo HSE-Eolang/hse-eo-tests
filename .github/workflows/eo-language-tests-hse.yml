@@ -15,7 +15,7 @@ jobs:
       tests-matrix: ${{ steps.set-tests-matrix.outputs.matrix }}
 
     steps:
-    - run: ls -la
+    - run: pwd
     - name: Collect tests info and form the matrix to run tests
       id: set-tests-matrix
       run: python3 ./python/retrieve-tests-matrix.py
