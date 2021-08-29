@@ -19,7 +19,7 @@ def run_compilation_test(test, environment, speed_test=False):
   if speed_test:
     command.insert(0, "time")
     
-  completed_compilation_process = subprocess.run(command, text=True, capture_output=True, encoding="utf-8")
+  completed_compilation_process = subprocess.run(command, text=True, encoding="utf-8")
 
   if completed_compilation_process.returncode == 0:
     actual_compilation_result = "ok"
@@ -34,7 +34,4 @@ def run_compilation_test(test, environment, speed_test=False):
   if expected_compilation_result != actual_compilation_result:
     raise AssertionError("Expected compilation result: \"" + str(expected_compilation_result) + "\", but got: \"" + str(actual_compilation_result) + "\".")
   else:
-    if speed_test:
-      print(actual_compilation_result.stdout)
-    else:
-      print("OK!")
+    print("OK!")
