@@ -1,4 +1,4 @@
-name: EO Language Features Compatibility and Support Tests (HSE compiler)
+name: HSE compiler
 
 on:
   push:

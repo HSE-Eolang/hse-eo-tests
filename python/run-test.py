@@ -7,6 +7,7 @@ test_dir = sys.argv[1]
 environment = sys.argv[2]
 with open(test_dir + "/test.json", 'r') as test_data_file:
   test_data = json.load(test_data_file)
+  test_data["directory"] = test_dir
 
 type = test_data["type"]
 if type == "compilation":

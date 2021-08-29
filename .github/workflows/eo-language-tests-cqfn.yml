@@ -1,4 +1,4 @@
-name: EO Language Features Compatibility and Support Tests (CQFN compiler)
+name: CQFN compiler
 
 on:
   push:
