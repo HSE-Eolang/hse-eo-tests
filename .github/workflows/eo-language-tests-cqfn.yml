@@ -47,6 +47,7 @@ jobs:
 
     steps:
     - name: Test Name is ${{ matrix.name }}
+      run: echo ${{ matrix.name }}
     - name: Description
       run: echo ${{ matrix.desc }}
     - name: Link to Test
