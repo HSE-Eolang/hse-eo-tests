@@ -1,7 +1,0 @@
-+package test
-
-[] > app
-  not. > @
-    eq.
-      1234
-      1234

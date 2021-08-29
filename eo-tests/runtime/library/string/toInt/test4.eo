@@ -1,5 +1,0 @@
-+package test
-
-[] > app
-  toInt. > @
-    "3.14"

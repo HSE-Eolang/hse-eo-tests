@@ -51,7 +51,7 @@ jobs:
     - name: Description
       run: echo "${{ matrix.desc }}"
     - name: Link to Test
-      run: echo "https://github.com/HSE-Eolang/hse-eo-tests/${{ matrix.directory }}"
+      run: echo "https://github.com/HSE-Eolang/hse-eo-tests/tree/master/${{ matrix.directory }}"
 
     - uses: actions/checkout@v2
 

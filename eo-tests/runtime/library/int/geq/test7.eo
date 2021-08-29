@@ -1,7 +1,0 @@
-+package test
-
-[] > app
-  not. > @
-    geq.
-      1234
-      1234

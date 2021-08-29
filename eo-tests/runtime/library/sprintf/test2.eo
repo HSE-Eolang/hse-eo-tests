@@ -1,7 +1,0 @@
-+package test
-+alias sprintf org.eolang.txt.sprintf
-
-[] > app
-  sprintf > @
-    "String object - %f"
-    45.67

@@ -1,7 +1,0 @@
-+package test
-
-[] > obj1
-  false > @
-
-[] > app
-  obj1 > @
