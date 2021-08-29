@@ -1,0 +1,7 @@
+{
+  "name": "Check if the Array is Empty",
+  "desc": "Checks if the app.args array is empty",
+  "active": true,
+  "type": "runtime",
+  "result": "true"
+}

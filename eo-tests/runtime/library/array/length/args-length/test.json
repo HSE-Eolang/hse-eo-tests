@@ -1,0 +1,7 @@
+{
+  "name": "Check the Length of an Array",
+  "desc": "Checks the length of the app.args array",
+  "active": true,
+  "type": "runtime",
+  "result": "0"
+}
